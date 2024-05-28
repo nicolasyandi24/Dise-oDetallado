@@ -1,4 +1,4 @@
-# Dise-oDetallado
+# DisenoDetallado
 Tarea semana 13, patrones de sieño
 - Para desarrollar la tarea se implemento lo siguiente
 

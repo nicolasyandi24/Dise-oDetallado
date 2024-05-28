@@ -3,11 +3,12 @@ Tarea semana 13, patrones de sieño
 - Para desarrollar la tarea se implemento lo siguiente
 
 1. Declaración de la clase Unico:
-""""""
+
+****
 public class Unico implements Serializable {
     private static final long serialVersionUID = 1L;
 
-"""""
+****
 La clase Unico implementa Serializable para permitir que su instancia sea serializada. La constante serialVersionUID se utiliza para verificar la compatibilidad de la versión durante la deserialización.
 
 2. Clase interna SingletonHolder:
